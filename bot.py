@@ -100,7 +100,7 @@ class CatsDogs:
         print(Fore.GREEN + Style.BRIGHT + banner + Style.RESET_ALL)
         print(Fore.GREEN + f" Cats Dogs")
         print(Fore.RED + f" GRÁTIS PARA USAR = Junte-se a nós em {Fore.GREEN}t.me/MexicanbrScripts")
-        print(Fore.YELLOW + f" antes de começar, por favor, '{Fore.GREEN}git pull{Fore.YELLOW}' para atualizar o bot")
+        print(Fore.YELLOW + f" antes de começar, por favor, {Fore.GREEN}entre no nosso canal")
         print(f"{Fore.WHITE}~" * 60)
 
     def format_seconds(self, seconds):
