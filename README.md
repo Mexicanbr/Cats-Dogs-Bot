@@ -100,5 +100,5 @@ user=%7B%22id%....
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-For questions or support, please contact [MEXICANBR TG CHAT](https://t.me/MexicanbrScripts)
+## Chanel
+New scripts on the channel [MEXICANBR Chanel](https://t.me/MexicanbrScripts)
